@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.cosmos{
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1612760836_187-p-fon-goluboi-multyashnii-226.jpg");
+    background-repeat: no-repeat;
+    width: 2560px;
+    height: 1600px;
+
+
+}
+.p1{
+    position: absolute;
+    top: 18%;
+    right: 30%;
+    bottom: 20%;
+}
+.p2{
+    position: absolute;
+    bottom: 40%;
+    right: 30%;
+}
+
+.p3{
+    position: absolute;
+    bottom: 35%;
+    right: 60%;
+
+}
